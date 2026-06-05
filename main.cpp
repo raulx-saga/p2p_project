@@ -1,5 +1,6 @@
 #include <iostream> 
+#include <string>
+#include <fstream> 
 int main(){
-    std::cout<<"Hola Amigo!!"<<std::endl;
-    return 0;
+
 }
